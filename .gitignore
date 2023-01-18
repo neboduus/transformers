@@ -130,3 +130,6 @@ dmypy.json
 
 # Intellij IDEA
 .idea
+
+# mt5-small-dataset from legal-mT5 model
+mt5-small-finetuned-amazon-en-es
