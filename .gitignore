@@ -132,4 +132,4 @@ dmypy.json
 .idea
 
 # mt5-small-dataset from legal-mT5 model
-mt5-small-finetuned-amazon-en-es
+mt5-small-finetuned-amazon-en-es/
